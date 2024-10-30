@@ -1,0 +1,43 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+flowup.shop	TRUE	/	FALSE	1999999999	frontend_lang	fr_BE
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	50LDuycEelE
+.facebook.com	TRUE	/	FALSE	1999999999	sb	W-0gZ-qmSW8_o2c1PU9FnSNq
+.tiktok.com	TRUE	/	FALSE	1999999999	tt_csrf_token	lD8ewQdS-iJig5dmW9bdQDPzzzNWHLbW_E8Y
+www.tiktok.com	TRUE	/	FALSE	1999999999	samesite	lax
+.tiktok.com	TRUE	/	FALSE	1999999999	ttwid	1%7Ci232NF757G7eNyhmhaqoPTm_OHCPhYV0hvTNRIaR44w%7C1730211164%7Ccbaf033a57243231e572f3f3a81da30ac300f2249dcb06128b4f867d4546faed
+.tiktok.com	TRUE	/	FALSE	1999999999	tt_chain_token	62BcbnGQdv/B1uXno7R55Q==
+tiktok.com	TRUE	/	FALSE	1999999999	msToken	cVGCq-QWlmI9s7dtmnC1da2Vaau1GBPhL0CZk48-ze1dfD3nYYURAZlvkJP9oFmotfBVcZysa6TwlVHtf8yuvKuzHse5Gwzg9cibst3dsNqyzO9BhOLohTg=
+www.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	vZtj0V2glP0nmP8d4yOYrS
+discord.com	TRUE	/	FALSE	1999999999	__dcfduid	df43db2095ff11efb7a9dda082f16487
+discord.com	TRUE	/	FALSE	1999999999	__sdcfduid	df43db2195ff11efb7a9dda082f16487eac392219d402905f4226a7ad98e2204db0d34351be7fb5d8f387b3276f6d6dc
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	copDRqYVf20
+.youtube.com	TRUE	/	FALSE	1999999999	SOCS	CAAaBgiAy4C5Bg
+.youtube.com	TRUE	/	FALSE	1999999999	NID	518=Vy5get1v-FfJ4dzwxtmXKyWVMqIX8zvahjqic8yk3v1YecTN3Naqc7e47mMfvvr68GGL9_xa_eqka7sX00Bpwr6ruJ9OkMfgllDLWuF_8ba3Zj-ha7VzNHwF_coTs4jHMAdbhwIiLRNQvHvT-3rqy9WDEjVcZfD-YGeq-z8-SbUAVq1fkFL2J6LuK2U6l6XIa6pG_g
+facebook.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+www.facebook.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.x.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A173021167058086889
+x.com	TRUE	/	FALSE	1999999999	SameSite	None
+.x.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.instagram.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.instagram.com	TRUE	/	FALSE	1999999999	mid	ZyDvjgAEAAGSnJZIEQCw4lZQuyoa
+www.instagram.com	TRUE	/	FALSE	1999999999	SameSite	None
+.discordapp.com	TRUE	/	FALSE	1999999999	__cf_bm	eE0TeMxfznGcuj5DZVeweOc6Aq_bT1j5rRkwTUKxxss-1730211729-1.0.1.1-bdoM8cFJmPlbys1XAzIiUg0PZRLt1gYnNQ1tirYYzdLJpodT0jR2Cd.jnKr5ppS7yqKMq6qXjhT95fNfPAEdmA
+.discordapp.com	TRUE	/	FALSE	1999999999	_cfuvid	9QvAuY1MVyf80ytKIPYTKXh6ErDO.0H_Z0ycIr78Fpw-1730211729760-0.0.1.1-604800000
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	None
+.discord.com	TRUE	/	FALSE	1999999999	__cfruid	b57d9e7d081ddb814785f9773360c2999d75092f-1730211730
+.discord.com	TRUE	/	FALSE	1999999999	_cfuvid	0KDggHZ65vh6bEUjB4fV.8FhjsV1bdgwXBJUboZm8e0-1730211730687-0.0.1.1-604800000
+discord.com	TRUE	/	FALSE	1999999999	SameSite	None
+flowup.shop	TRUE	/	FALSE	1999999999	session_id	c4a2ac4ccaf024517b8b4e060a64f41074981f6e
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	lax
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	lax
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.youtube.com	TRUE	/	FALSE	1999999999	__Secure-YEC	CgtkdlZTdjVUaFlNOCjS8YO5BjIiCgJGUhIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgHQ%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	lax
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJGUhIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgHQ%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+
